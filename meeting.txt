@@ -1,0 +1,27 @@
+********** Meeting Content ******************
+1-Objetivos e Funcionalidades da Rede Social:
+*Quais são as principais funcionalidades que queremos implementar na rede social?
+ (Ex.: perfis de usuários, postagens, comentários, mensagens privadas, etc.)
+
+2-Arquitetura e Tecnologias:
+*Qual será a arquitetura do sistema? 
+*Quais linguagens de programação vamos utilizar para o desenvolvimento frontend e backend?
+*Que frameworks ou bibliotecas serão úteis para acelerar o desenvolvimento? 
+(Ex.: React, Angular, Vue.js para frontend; Django, Flask, Express.js para backend
+
+3-Banco de Dados:
+
+4-Infraestrutura e Servidores:
+
+5-Segurança:
+*Quais medidas de segurança vamos implementar? (Ex.: criptografia de dados, autenticação e autorização)
+Como vamos proteger os dados dos usuários e garantir a conformidade com regulamentações de privacidade?
+Experiência do Usuário e Design:
+
+6-Quem será responsável pelo design da interface de usuário (UI) e pela experiência do usuário (UX)?
+Como vamos realizar testes de usabilidade e feedback do usuário?
+
+7-Plano de Lançamento e Crescimento:
+Qual é o cronograma para o desenvolvimento e lançamento da plataforma?
+Como vamos promover a rede social e atrair os primeiros usuários?
+Quais estratégias vamos usar para monetizar a rede social?
